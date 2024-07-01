@@ -42,7 +42,7 @@ ul li{
 .title-info{
     text-align: center;
     color: white;
-    margin-top: 100px;
+    
 }
 a{
     text-decoration: none;
@@ -57,12 +57,12 @@ a{
 .grid-container{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    border: 1px solid black;
+    
     
 
 }
 .grid-item{
-    height: 600px;
+    height: 400px;
 
     /* justify-content: center;
     display: flex;
@@ -82,6 +82,7 @@ a{
 }
 .box-1,.box-4{
     padding: 100px;
+    text-align: center;
 
 
 
@@ -89,7 +90,6 @@ a{
  
 .box-2{
     background-image: url("./images/desktop/image-transform.jpg");
-    border: 3px solid green;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -106,7 +106,7 @@ a{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 150px;
+    padding: 100px;
     
     
 }
@@ -115,11 +115,12 @@ a{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 150px;
+    padding: 100px;
 }
 .cherry{
     color: hsl(213, 9%, 39%);
     padding-top: 150px;
+
     
     
     
@@ -246,9 +247,7 @@ footer .media{
     margin-top: 50px;
     
 }
-.media :hover{
-color: white;
-}
+
 
 
 
@@ -287,9 +286,69 @@ color: white;
         grid-template-columns: 1fr 1fr;
     }
     .grid-pic{
-        border:1px solid blue;
         height: 200px;
     }
+    .title-info{
+        text-align: center;
+        color: white;
+        font-size: x-large;
+        
+    }
+    .cherry{
+        color: hsl(213, 9%, 39%);
+        padding-top: 150px;
+    
+        
+        
+        
+    }
+    .graphic{
+        color: grey;
+        font-size: large;
+        margin-top: 10px;
+        
+    }
+    .bottom{
+        margin-bottom: 20px;
+        font-size: x-large;
+    
+    }
+    .divide{
+        color: grey;
+        margin-bottom: 20px;
+        font-size: small;
+    }
+    .box-1,.box-4{
+        padding: 79px;
+        text-align: center;
+    }
+    .cherry{
+        color: hsl(213, 9%, 39%);
+        font-size: larger;
+        text-align: center;
+    }
+    .graphic{
+        color: grey;
+         text-align: center;
+         font-size: x-small;
+         
+        
+    }
+    .orange{
+        color: darkblue;
+        text-align: center;
+        font-size: larger;
+    }
+    .photo{
+        color: darkblue;
+        font-size: smaller;
+        text-align: center;
+
+        
+    }
+
+
+
 
 
 }
