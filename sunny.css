@@ -6,7 +6,7 @@
 
 header{
     height: 100vh;
-    background-image: url("/images/desktop/image-header.jpg");
+    background-image: url("./images/desktop/image-header.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -88,21 +88,21 @@ a{
 }
  
 .box-2{
-    background-image: url("/images/desktop/image-transform.jpg");
+    background-image: url("./images/desktop/image-transform.jpg");
     border: 3px solid green;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .box-3{
-    background-image: url("/images/desktop/image-stand-out.jpg");
+    background-image: url("./images/desktop/image-stand-out.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .box-5{
-    background-image: url("/images/desktop/image-graphic-design.jpg");
+    background-image: url("./images/desktop/image-graphic-design.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -111,7 +111,7 @@ a{
     
 }
 .box-6{
-    background-image: url("/images/desktop/image-photography.jpg");
+    background-image: url("./images/desktop/image-photography.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -197,19 +197,19 @@ a{
     background-size: cover;
 }
 .box-8{
-    background-image: url("/images/desktop/image-gallery-orange.jpg");
+    background-image: url("./images/desktop/image-gallery-orange.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .box-9{
-    background-image: url("/images/desktop/image-gallery-cone.jpg");
+    background-image: url("./images/desktop/image-gallery-cone.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .box-10{
-    background-image: url("/images/desktop/image-gallery-sugarcubes.jpg");
+    background-image: url("./images/desktop/image-gallery-sugarcubes.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
